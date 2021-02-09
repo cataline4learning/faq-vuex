@@ -1,4 +1,6 @@
-# desafio
+# FAQ-VUEX
+
+> ## Demo: https://faq-vuex.herokuapp.com/
 
 ## Project setup
 ```
