@@ -13,8 +13,8 @@ export default createStore({
     SET_FAQ_CATEGORIES(state, payload) {
       state.faqCategories = payload
     },
-    SET_CURRENT_COMPONENT(sate, payload) {
-      sate.currentComponent = payload
+    SET_CURRENT_COMPONENT(state, payload) {
+      state.currentComponent = payload
     },
     SET_SINGLE_CATEGORY(state, payload) {
       state.singleCategory = payload
